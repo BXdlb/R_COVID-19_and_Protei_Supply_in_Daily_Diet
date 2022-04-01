@@ -21,5 +21,5 @@ reshape2 1.4.4
 tidyverse 1.3.1
 modelr 0.1.8
 
-# ！Add folder Final_Project directly to work directory
+# This a R Markdown report 
 
